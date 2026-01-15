@@ -1,6 +1,7 @@
 # LangChain
 
-**Engineering Note:**Ollama runs locally. Before running this code, ensure you have installed Ollama and pulled a model (e.g., `ollama pull llama3.2`).
+**Engineering Note:**
+Ollama runs locally. Before running this code, ensure you have installed Ollama and pulled a model (e.g., `ollama pull llama3.2`).
 
 ## Ollama & LangChain Cheat Sheet
 
