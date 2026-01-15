@@ -1,4 +1,4 @@
-# RAG and Agentic AI
+# [RAG and Agentic AI](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai)
 ## 1. [Develop Generative AI Applications: Get Started](1-generative-ai-basics/README.md)
 ## 2. [Build RAG Applications: Get Started](2-rag-applications/README.md)
 ## 3. [Vector Databases for RAG: An Introduction](3-vector-databases/README.md)
