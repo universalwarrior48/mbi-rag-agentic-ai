@@ -39,6 +39,8 @@
 
 ## [Summary](topics/11-summary.md)
 
+## [Cheat Sheet](topics/12-cheat-sheet.md)
+
 ## ***Optional***
 
 ## [Generative AI: Introduction and Applications](https://www.coursera.org/learn/generative-ai-introduction-and-applications)
